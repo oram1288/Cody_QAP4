@@ -56,7 +56,7 @@ function App() {
         onSubmit={handleSubmit}
       />
       {fetchedImages.length > 0 && <ImageGallery images={fetchedImages} />}
-      <h3> Help Give a Dog a New Leash on Life!</h3>
+      <h3> Help Give a Dog a New Chance At Life!</h3>
       <h3>Click Below to Donate!</h3>
       <div>
         <a
